@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "maxon mern",
+  "mongoUri": "mongodb+srv://max:max123456@cluster0.fmbfn.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
